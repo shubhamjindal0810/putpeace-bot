@@ -1,0 +1,45 @@
+2015-09-29 19:33:47 POST http://iitm.cloudapp.net/api/register/
+                         ← 200 application/json 455B 111.65kB/s
+Request                                                      Response
+Host:             iitm.cloudapp.net
+Connection:       keep-alive
+Content-Length:   86
+Accept:           application/json, text/plain, */*
+Origin:           http://putpeace.com
+User-Agent:       Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LMY48M) AppleWebKit/537.36 (KHTML, like Gecko)
+                  Chrome/45.0.2454.94 Mobile Safari/537.36
+Content-Type:     application/x-www-form-urlencoded
+DNT:              1
+Referer:          http://putpeace.com/index.html?rel=188ec7f7aa
+Accept-Encoding:  gzip, deflate
+Accept-Language:  en-US,en;q=0.8
+URLEncoded form
+email:     shubhamjindal0810+bla@gmail.com
+password:  shubhamjindal
+name:      Jindal Shubham
+
+
+[
+    {
+        "fields": {
+            "Help_score": 10, 
+            "account_balance": 3, 
+            "address": "", 
+            "college": null, 
+            "email": "shubhamjindal0810+bla@gmail.com", 
+            "isverified": false, 
+            "joining_date": "2015-09-29T08:33:59Z", 
+            "last_droppoint": null, 
+            "name": "Jindal Shubham", 
+            "password": "shubhamjindal", 
+            "phonenumber": "", 
+            "security_key": "d9cc304b-0863-400d-9051-97b734291ff7", 
+            "tags": [], 
+            "verification_key": "de44036f-e803-435f-b0a0-a1a2d8f56162"
+        }, 
+        "model": "peaceout.user", 
+        "pk": 1062
+    }
+]
+
+
